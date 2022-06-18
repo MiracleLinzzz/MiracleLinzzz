@@ -7,7 +7,7 @@
 - 💞️ I’m looking to meet interesting souls
 - 📫 Feel free to contact me on Twitter or send me an email if you have any interesting ideas
 
-[my Blog]: MiracleLinzzz.github.io
+[my Blog]: https://MiracleLinzzz.github.io
 <!---
 MiracleLinzzz/MiracleLinzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
